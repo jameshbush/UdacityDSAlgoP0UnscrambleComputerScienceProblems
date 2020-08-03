@@ -1,3 +1,8 @@
+## Udacity intro to data structures
+
+This is my Big O time complexity analysis of various solutions. My work and answers here are my own. This is not a tutorial.
+
+
 TASK 0:
 
 O(2) simply O(1)
